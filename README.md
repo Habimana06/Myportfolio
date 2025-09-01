@@ -1,30 +1,82 @@
-# Assets and Images
+🌟 Habimana Happy | Portfolio
 
-Place your images in `src/assets/` and import them into components:
+Welcome to my personal portfolio repository!
+This project showcases my skills, projects, and journey as a developer. 🚀
 
-```jsx
-import myPhoto from '@/assets/profile.jpg';
+👨‍💻 About Me
 
-export default function AboutCard() {
-  return (
-    <img src={myPhoto} alt="Profile" className="w-40 h-40 rounded-full object-cover" />
-  );
-}
-```
+Hi, I'm Habimana Happy, a passionate developer and tech enthusiast from Rwanda.
+I enjoy building web applications, solving problems with code, and designing user-friendly interfaces.
 
-Examples:
-- Hero avatar: add `src/assets/avatar.png` and use `<img>` where the "HH" placeholder is.
-- Project thumbnails: add images to `src/assets/projects/` and add an `imageUrl` on each project card.
-# React + Vite
+🎓 Student at Adventist University of Central Africa (AUCA)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+💻 Skilled in C++, HTML, CSS, JavaScript, and Video Editing
 
-Currently, two official plugins are available:
+🌍 Languages: English (proficient), Kinyarwanda (native)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🏀 Hobbies: Basketball & Swimming
 
-## Expanding the ESLint configuration
+💡 Values: Hard work & Teamwork
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Myportfolio" 
+✨ Features of This Portfolio
+
+📂 Showcases my projects and achievements
+
+🖼️ Clean and modern design
+
+📱 Fully responsive for desktop & mobile
+
+⚡ Built with HTML, CSS, and JavaScript (customizable)
+
+📌 Sections
+
+Home – Introduction & personal branding
+
+About – Who I am & what I do
+
+Skills – Tech stack & tools I use
+
+Projects – My best works with live demos
+
+Contact – How to reach me
+
+🛠️ Tech Stack
+
+Here’s what I used in this portfolio:
+
+Frontend: HTML5, CSS3, JavaScript
+
+Design: TailwindCSS / Bootstrap (optional)
+
+Version Control: Git & GitHub
+
+Hosting: GitHub Pages / Vercel / Netlify
+
+🚀 Setup & Installation
+
+If you want to run this project locally:
+
+# Clone the repository
+git clone https://github.com/Habimana06/portfolio.git
+
+# Navigate into the folder
+cd portfolio
+
+# Open index.html in your browser
+
+📸 Preview
+
+🔗 Links
+
+🌍 Live Portfolio
+
+💼 LinkedIn
+
+🐦 Twitter
+
+📧 Email: hntaganira6gmail.com
+
+❤️ Acknowledgements
+
+Thanks for visiting my portfolio!
+Feel free to fork, star ⭐, or suggest improvements.
